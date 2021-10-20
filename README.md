@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wiznxt.tistory.com/)](https://wiznxt.tistory.com/)
+	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bjnhur/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+	
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bongjunhur)](https://www.facebook.com/bongjunhur)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjnhur@gmail.com)](mailto:bjnhur@gmail.com)
+
 **bjnhur/bjnhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
