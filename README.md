@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a embedded developer working in Seoul, Korea.
+This is **Bongjun Hur**. I'm a improving, open-minded software engineer living in Seoul, Korea.
 
 - 🔭 I’m currently working on **pico-azure-iot-sdk**, [**Pico with W5500**](https://github.com/bjnhur/pico-W5500) with Ethernet, WIZnet W5500, Azure Cloud, RP2040.
 - 🌱 I’m currently learning **[Azure IoT SDK C](https://github.com/Azure/azure-iot-sdk-c), RaspberryPi Pico - [pico-sdk](https://github.com/raspberrypi/pico-sdk) and [pico-examples](https://github.com/raspberrypi/pico-examples), FreeRTOS, Python, Flask, ReactJS, MongoDB...**
