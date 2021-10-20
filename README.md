@@ -1,8 +1,8 @@
 # Hi there 👋
 I'm a embedded developer working in Seoul, Korea.
 
-- 🔭 I’m currently working on **pico-azure-iot-sdk**, [**Pico with W5500**](https://github.com/bjnhur/pico-W5500), RaspberryPi Pico project with [pico-sdk](https://github.com/raspberrypi/pico-sdk) and [pico-examples](https://github.com/raspberrypi/pico-examples)
-- 🌱 I’m currently learning **[Azure IoT SDK C](https://github.com/Azure/azure-iot-sdk-c), RaspberryPi Pico, FreeRTOS, Python, Flask, ReactJS, MongoDB...**
+- 🔭 I’m currently working on **pico-azure-iot-sdk**, [**Pico with W5500**](https://github.com/bjnhur/pico-W5500) with Ethernet, WIZnet W5500, Azure Cloud, RP2040.
+- 🌱 I’m currently learning **[Azure IoT SDK C](https://github.com/Azure/azure-iot-sdk-c), RaspberryPi Pico - [pico-sdk](https://github.com/raspberrypi/pico-sdk) and [pico-examples](https://github.com/raspberrypi/pico-examples), FreeRTOS, Python, Flask, ReactJS, MongoDB...**
 - 👯 I’m looking to collaborate on [**Adafruit_CircuitPython_Wiznet5k**](https://github.com/bjnhur/Adafruit_CircuitPython_Wiznet5k) [WIZnet](https://github.com/Wiznet) [Wiznet Open Hardware team](https://github.com/Wiznet-OpenHardware) 
 - 📝 I regularly write articles on [wiznxt.tistory.com (in Korean)](wiznxt.tistory.com (in Korean)) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wiznxt.tistory.com/)](https://wiznxt.tistory.com/)
 - 💬 Ask me about **Embedded network, IoT device, TCP/IP, W5100, W5500, ...**
