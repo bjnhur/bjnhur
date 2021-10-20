@@ -1,22 +1,15 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Bongjun</h1>
 <h3 align="center">A passionate embedded developer from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjnhur&label=Profile%20views&color=0e75b6&style=flat" alt="bjnhur" /> </p>
 
 - 🔭 I’m currently working on **pico-azure-iot-sdk**
-
 - 🌱 I’m currently learning **Azure IoT SDK C, RaspberryPi Pico, FreeRTOS, Python, Flask, ReactJS, MongoDB...**
-
 - 👯 I’m looking to collaborate on **circuitpython**
-
 - 📝 I regularly write articles on [wiznxt.tistory.com (in Korean)](wiznxt.tistory.com (in Korean)) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wiznxt.tistory.com/)](https://wiznxt.tistory.com/)
-
 - 💬 Ask me about **Embedded network, IoT device, TCP/IP, W5100, W5500, ...**
-
 - 📫 How to reach me **bjnhur@gmail.com** 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjnhur@gmail.com)](mailto:bjnhur@gmail.com)
-
 - 📄 Know about my experiences [www.linkedin.com/in/bjnhur](www.linkedin.com/in/bjnhur) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bjnhur/)](https://www.linkedin.com/in/bjnhur/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bongjunhur)](https://www.facebook.com/bongjunhur)
 
