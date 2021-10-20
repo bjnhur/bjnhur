@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bongjun</h1>
-<h3 align="center">A passionate embedded developer from Korea</h3>
+# Hi there 👋
+I'm a embedded developer working in Seoul, Korea.
 
 - 🔭 I’m currently working on **pico-azure-iot-sdk** [**Pico with W5500**](https://github.com/bjnhur/pico-W5500)
 - 🌱 I’m currently learning **[Azure IoT SDK C](https://github.com/Azure/azure-iot-sdk-c), RaspberryPi Pico, FreeRTOS, Python, Flask, ReactJS, MongoDB...**
