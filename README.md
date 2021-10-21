@@ -6,12 +6,14 @@ This is **Bongjun Hur**. I'm a improving, open-minded software engineer living i
 - 👯 I’m looking to collaborate on [**WIZnet**](https://github.com/Wiznet), [**Adafruit_CircuitPython_Wiznet5k**](https://github.com/bjnhur/Adafruit_CircuitPython_Wiznet5k), [**Wiznet Open Hardware team**](https://github.com/Wiznet-OpenHardware) 
 - 📝 I regularly write articles on [**wiznxt.tistory.com (in Korean)**](https://wiznxt.tistory.com/) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wiznxt.tistory.com/)](https://wiznxt.tistory.com/)
 - 💬 Ask me about **Embedded network, IoT device, TCP/IP, W5100, W5500, ...**
-- 📫 How to reach me **bjnhur@gmail.com** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjnhur@gmail.com)](mailto:bjnhur@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bongjunhur)](https://www.facebook.com/bongjunhur)
+- 📫 How to reach me **bjnhur@gmail.com** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjnhur@gmail.com)](mailto:bjnhur@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bongjunhur)](https://www.facebook.com/bongjunhur)  [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bongjunhur)](https://twitter.com/bongjunhur)
 - 📄 Know about my experiences [**linkedin.com/in/bjnhur**](www.linkedin.com/in/bjnhur) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bjnhur/)](https://www.linkedin.com/in/bjnhur/)
+
+#1DA1F2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bongjunhur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bongjunhur" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bongjunhur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bjnhur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bjnhur" height="30" width="40" /></a>
 <a href="https://fb.com/bongjunhur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bongjunhur" height="30" width="40" /></a>
 <a href="https://instagram.com/bjnhur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bjnhur" height="30" width="40" /></a>
