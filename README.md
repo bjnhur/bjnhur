@@ -2,7 +2,7 @@
 This is **Bongjun Hur**. I'm a improving, open-minded software engineer living in Seoul, Korea.
 
 - 🔭 I’m currently working & learning on **Automotive SoC design, ASIC projects**
-- 🔭 lots of many experience of **C/C++, Python, Django, REST API, Web, Backend, Frontend, SoC design, Python scripting...**
+- 🔭 lots of many experience of **C/C++, Python, SoC design, Python/tcl scripting, Django, REST API...**
 - 🔭 Done ~~I’m currently working on~~ [**pico-azure-iot-sdk**](https://github.com/bjnhur/pico-examples), [**Pico with W5500**](https://github.com/bjnhur/pico-W5500) with Ethernet, WIZnet W5500, Azure Cloud, RP2040.
 - 🌱 I’m currently learning **[Azure IoT SDK C](https://github.com/Azure/azure-iot-sdk-c), RaspberryPi Pico - [pico-sdk](https://github.com/raspberrypi/pico-sdk) and [pico-examples](https://github.com/raspberrypi/pico-examples), FreeRTOS, Python, Flask, ReactJS, MongoDB...**
 - 👯 I’m looking to collaborate on [**WIZnet**](https://github.com/Wiznet), [**Adafruit_CircuitPython_Wiznet5k**](https://github.com/bjnhur/Adafruit_CircuitPython_Wiznet5k), [**Wiznet Open Hardware team**](https://github.com/Wiznet-OpenHardware) 
